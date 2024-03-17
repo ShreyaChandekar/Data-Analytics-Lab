@@ -1,1 +1,1 @@
-# Everthing in Data Analytics
+# Everything about Data Analytics
